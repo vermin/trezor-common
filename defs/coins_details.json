@@ -26998,21 +26998,21 @@
                 }
             ]
         },
-        "misc:XMR": {
+        "misc:WAZN": {
             "links": {
-                "Github": "https://github.com/monero-project/monero",
-                "Homepage": "https://getmonero.org"
+                "Github": "https://github.com/project-wazn/wazn",
+                "Homepage": "https://wazn.io"
             },
             "marketcap_usd": 1254051585,
-            "name": "Monero",
-            "shortcut": "XMR",
+            "name": "Wazn",
+            "shortcut": "WAZN",
             "t1_enabled": "no",
             "t2_enabled": "yes",
             "type": "coin",
             "wallet": [
                 {
-                    "name": "Monero CLI/GUI",
-                    "url": "https://www.getmonero.org/downloads/"
+                    "name": "WAZN CLI/GUI",
+                    "url": "https://wazn.io/downloads.html"
                 }
             ]
         },

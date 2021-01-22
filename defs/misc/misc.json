@@ -31,17 +31,17 @@
         "blockchain_link": null
     },
     {
-        "name": "Monero",
-        "shortcut": "XMR",
+        "name": "Wazn",
+        "shortcut": "WAZN",
         "slip44": 128,
         "curve": "ed25519",
-        "decimals": 12,
+        "decimals": 6,
         "links": {
-            "Homepage": "https://getmonero.org",
-            "Github": "https://github.com/monero-project/monero"
+            "Homepage": "https://wazn.io",
+            "Github": "https://github.com/project-wazn/wazn"
         },
         "wallet": {
-            "Monero CLI/GUI": "https://www.getmonero.org/downloads/"
+            "WAZN CLI/GUI": "https://wazn.io/downloads.html"
         },
         "blockchain_link": null
     },
