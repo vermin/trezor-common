@@ -1,4 +1,4 @@
-# Trezor WAZN
+# Trezor Common
 
 This project contains files shared among Trezor projects. All changes are happening inside the [Trezor Firmware repository](https://github.com/trezor/trezor-firmware).
 
